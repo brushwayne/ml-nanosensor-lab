@@ -61,8 +61,4 @@ To get a quick start, check out the following examples:
 ## Contributing
 
 If you'd like to contribute to this repository, please fork the project and submit a pull request. Contributions, improvements, and suggestions are welcome!
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 ```
